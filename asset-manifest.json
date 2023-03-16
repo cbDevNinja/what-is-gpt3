@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/what-is-gpt3/static/css/main.f2044e68.css",
-    "main.js": "/what-is-gpt3/static/js/main.c8e1a0ce.js",
+    "main.css": "/what-is-gpt3/static/css/main.0868127f.css",
+    "main.js": "/what-is-gpt3/static/js/main.4034377f.js",
     "static/media/ai.png": "/what-is-gpt3/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/what-is-gpt3/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/what-is-gpt3/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -12,11 +12,11 @@
     "static/media/people.png": "/what-is-gpt3/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/what-is-gpt3/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/what-is-gpt3/index.html",
-    "main.f2044e68.css.map": "/what-is-gpt3/static/css/main.f2044e68.css.map",
-    "main.c8e1a0ce.js.map": "/what-is-gpt3/static/js/main.c8e1a0ce.js.map"
+    "main.0868127f.css.map": "/what-is-gpt3/static/css/main.0868127f.css.map",
+    "main.4034377f.js.map": "/what-is-gpt3/static/js/main.4034377f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2044e68.css",
-    "static/js/main.c8e1a0ce.js"
+    "static/css/main.0868127f.css",
+    "static/js/main.4034377f.js"
   ]
 }
